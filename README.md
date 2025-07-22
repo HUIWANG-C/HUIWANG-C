@@ -4,6 +4,16 @@ I will start sharing some of my work here on Github.
 
 # Research
 
-## Fluid Dynamics
+## Drop impact
+
+## Breaking waves
 
 ## CFD code
+
+# 🗣 Languages
+I speak some different languanges
+- English $\rightarrow$ Fluent
+- French $\rightarrow$ Fluent
+- Chinese $\rightarrow$ Native
+
+
